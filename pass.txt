@@ -1,0 +1,171 @@
+tsod1 shadas17@in.ibm.com    Ibm@shantam1136- w3  
+hfop6p39ur5dcg7a
+Thisis@masterPassword39039820 - key vault
+ibm-cio-gi.slack.com
+Ibm@shantam1115 - w3
+
+Credly - Credly@39039
+/wsr.pearsonvue.com
+id: d2.shantam
+Ibm@39039
+
+Claim@1234 - claim digital batch
+
+aclaim- Acclaim@39039
+link - In@dushtu39039
+
+Jeevanandham Shanmugam/India/IBM
+Sakthi K59/India/IBM 
+Koushik D Karmakar/India/IBM
+
+cc/3100 - ZWXKJZ
+
+notes - Notes@9876 
+
+EPFO - Epfo@2024
+passbook - Epfo@2023
+100675063129 
+
+
+invite Connie Mak and Melissa Gallagher
+
+Ibm@medi21(app) D2@Ibm21(web) - 000L8E@IBM    - medibuddy
+Linkedin@11 - linkedin
+
+tsod1 i000l8e pass9875
+
+cvs
+000l8e - pwd : apr@2021
+
+
+acces code - ibksr76320951
+
+Outlook@5678  -  outlook password
+
+tsod1 - pass9753
+tsop1 - Pass9844
+
+Password789456213
+
+
+alumin - uqgkvsyr0k
+mailto:alumni@infosys.com
+
+sro.krpuram@epfindia.gov.in
+‪C:\Users\ShantamDas\Desktop\RBD 9.1\RBD 9.1\RATL_BUS_DEV_V9.1_ML_MP_PT1_EMG\RBD_SETUP\repository.xml
+
+
+
+ALTER access for userid.icfsr100.temp.* to ID1IDC and IMSTEXT
+READ access for uid.icfsr100.* to id1idc and imstext
+
+
+SELECT E.PROP_NUM,E.PROP_VERS_NUM,                                     						
+    C.TERM_COND_NAME,D.LCL_AMT_19,A.COMM_TXT_LINE_NUM,A.COMM_TXT_LINE  						
+    FROM ICR3TDBA.JFDT05 A,ICR3TDBA.JFDT04 B,ICR3TDBA.JFDT13 C,        						
+ICR3TDBA.JFDT16 D,ICR3TDBA.JFDT06 E                                    						
+WHERE A.COUNTRY_CODE = '655'                                           						
+AND A.SUBSIDIARY_CODE = '01'                                           						
+AND A.PROP_NUM = 'X00002097'                                           						
+AND A.PROP_VERS_NUM = '01'                                             						
+AND A.COUNTRY_CODE = B.COUNTRY_CODE                                    						
+AND A.SUBSIDIARY_CODE = B.SUBSIDIARY_CODE                              						
+AND A.PROP_NUM = B.PROP_NUM                                            						
+AND A.PROP_VERS_NUM = B.PROP_VERS_NUM                                  						
+AND A.COUNTRY_CODE = C.COUNTRY_CODE                                    						
+AND A.SUBSIDIARY_CODE = C.SUBSIDIARY_CODE                              						
+AND A.PROP_NUM = C.PROP_NUM                                            						
+AND A.PROP_VERS_NUM = C.PROP_VERS_NUM                                  						
+AND A.COUNTRY_CODE = D.COUNTRY_CODE                                    						
+AND A.SUBSIDIARY_CODE = D.SUBSIDIARY_CODE                              						
+AND A.PROP_NUM = D.PROP_NUM                						
+AND A.PROP_VERS_NUM = D.PROP_VERS_NUM      						
+AND A.COUNTRY_CODE = E.COUNTRY_CODE        						
+AND A.SUBSIDIARY_CODE = E.SUBSIDIARY_CODE  						
+AND A.PROP_NUM = E.PROP_NUM                						
+AND A.PROP_VERS_NUM = E.PROP_VERS_NUM  
+
+I$TOOLS.COPYDOWN.JCL(COPYQUOT)                                              
+
+electric
+152015165  -> Ashok@1234  -> this is 1005585631 for load enhancement
+BIDHAN NAGAR-II	BIRATI	2514-5040 -> birati customer care number
+status - service connction
+
+102413931 -> Shan@1234
+
+vm9
+user id - IN06443V
+password: hyph3mia
+
+HDFC BANK IPIN - 
+
+ipin/pw hdfc netbank - SD07012023
+ID - 159658505
+50100398626210
+HDFC Securities pw- Sd@3908
+Shantam@das6218  - axis pw
+HDFC bank app 4 dig pin - 3905
+
+HDFC demat code for Shreo - 707504
+
+
+4184389
+
+demat account number
+
+itax site
+BIVPD5648F
+sHANTAM@DAS007
+
+smpa das pan - 
+AKEPD7866R
+asko das pan- AGTPD9483H
+
+
+accenture - Shantam@39039
+
+laptop outlook - Outlook@1234| d2.shantam@gmail.com (linked email id)
+
+Alliance@123 - alliance  login id pw
+
+https://portal.medibuddy.in/ - 000L8E@IBM|Medi@39039
+
+
+
+details for anu id in uat
+D500951
+ary14ary
+
+
+morgan - Morgan@39039820
+
+008A8222shantam
+
+Navy@39039820
+
+Infy@070101
+
+WF - 
+
+fedi - Fedi@39039
+
+
+----pnb---
+7th arch 1956
+babar acc- user id  - U44086196
+0389010154971
+pw mobile pnb one app - 3903
+
+
+
+--
+hdfc - uid = 41951822
+Sampa@39039
+ICCMVS1.POK.IBM.COM -992
+--cleartax- Clear@39039
+
+
+
+
+ICCMVS1.POK.IBM.COM - 992
